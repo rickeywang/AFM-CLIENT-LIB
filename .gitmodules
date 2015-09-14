@@ -1,3 +1,3 @@
 [submodule "qwtplot3d"]
 	path = qwtplot3d
-	url = https://github.com/sintegrial/qwtplot3d
+	url = git@github.com:rickeywang/qwtplot3d.git
